@@ -18,7 +18,3 @@ print("hello world")
 ## Proof of work
 Here is the proof that my solution works (add another image)
 
-
-
-# - Title
-## - subtitle
