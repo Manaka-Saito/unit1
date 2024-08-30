@@ -1,11 +1,12 @@
 # This is the quiz 001
 Quizzes are checked every 8** quizzes.
 
-MD files, markdown documents, use symbols to change the format, learn more here:
+<img width="1069" alt="Screenshot 2024-08-30 at 8 38 40" src="https://github.com/user-attachments/assets/4482f86b-4ff4-43d8-be46-ea52e115cd64">
 
 
 
 ## Paper solution
+
 
 
 
