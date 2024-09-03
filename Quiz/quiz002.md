@@ -21,4 +21,5 @@
 
 ## Proof of work
 
+<img width="1062" alt="Screenshot 2024-09-03 at 21 09 41" src="https://github.com/user-attachments/assets/6168db8f-58ae-46bb-b8de-aba477cef95c">
 
