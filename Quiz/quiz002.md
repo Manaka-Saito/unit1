@@ -5,15 +5,18 @@
 
 ## Flow Diagram
 
-![IMG_8055](https://github.com/user-attachments/assets/4cff2bbb-d3b7-426d-b37a-8606177c5025)
 
 
 ## Paper solution
 
 
 
+
 ## Code
 
+<img width="480" alt="Screenshot 2024-09-03 at 14 35 02" src="https://github.com/user-attachments/assets/467eb22f-f462-4ec7-b2f6-f65fb1427694">
+
+<img width="451" alt="Screenshot 2024-09-03 at 14 35 53" src="https://github.com/user-attachments/assets/7dd1da44-e52f-4007-9067-adf0f612fb0a">
 
 
 ## Proof of work
