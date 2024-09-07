@@ -16,7 +16,7 @@
 
 <img width="480" alt="Screenshot 2024-09-03 at 14 35 02" src="https://github.com/user-attachments/assets/467eb22f-f462-4ec7-b2f6-f65fb1427694">
 
-<img width="451" alt="Screenshot 2024-09-03 at 14 35 53" src="https://github.com/user-attachments/assets/7dd1da44-e52f-4007-9067-adf0f612fb0a">
+<img width="416" alt="Screenshot 2024-09-07 at 17 43 17" src="https://github.com/user-attachments/assets/4db0e902-5c6c-4b30-9894-1d1027085bdb">
 
 
 ## Proof of work
