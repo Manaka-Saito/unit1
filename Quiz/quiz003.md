@@ -10,6 +10,7 @@
 
 ## Paper solution
 
+![IMG_8097](https://github.com/user-attachments/assets/59b251d6-e156-4f95-be33-0e5a69588927)
 
 
 
