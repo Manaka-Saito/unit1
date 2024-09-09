@@ -18,7 +18,7 @@
 
 ## Code
 
-<img width="643" alt="Screenshot 2024-09-09 at 19 51 00" src="https://github.com/user-attachments/assets/83fa3c10-3dfb-449e-8fea-1d32f3ab9179">
+<img width="660" alt="Screenshot 2024-09-10 at 0 08 10" src="https://github.com/user-attachments/assets/a58cf52f-a20f-42d9-b75e-320c2abeae95">
 
 
 ## Proof of Work
