@@ -11,6 +11,7 @@
 
 ## Paper solution
 
+![image](https://github.com/user-attachments/assets/667d7984-bb0a-4a54-a040-401cfccadb80)
 
 
 
