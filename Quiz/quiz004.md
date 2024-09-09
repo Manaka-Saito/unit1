@@ -6,6 +6,7 @@
 
 ## Flow Diagram
 
+![image](https://github.com/user-attachments/assets/c37fd541-307a-4f4b-9302-900baecc332a)
 
 
 ## Paper solution
