@@ -5,6 +5,8 @@
 
 ## Flow Diagram
 
+![unnamed](https://github.com/user-attachments/assets/2b45d938-16c0-46ad-a8d9-c6e4a813f5ef)
+
 
 
 ## Paper solution
@@ -16,7 +18,8 @@
 
 <img width="480" alt="Screenshot 2024-09-03 at 14 35 02" src="https://github.com/user-attachments/assets/467eb22f-f462-4ec7-b2f6-f65fb1427694">
 
-<img width="416" alt="Screenshot 2024-09-07 at 17 43 17" src="https://github.com/user-attachments/assets/4db0e902-5c6c-4b30-9894-1d1027085bdb">
+
+<img width="454" alt="Screenshot 2024-09-09 at 8 41 04" src="https://github.com/user-attachments/assets/1fbd9340-28f6-4c7f-9856-9059b123bf7e">
 
 
 ## Proof of work
