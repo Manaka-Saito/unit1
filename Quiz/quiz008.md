@@ -3,10 +3,12 @@ Not uploaded yet
 
 ## Flow Diagram
 
+![image](https://github.com/user-attachments/assets/b9a7477e-7f1a-436a-9940-bbdacb7da645)
 
 
 ## Paper Solution
 
+![image](https://github.com/user-attachments/assets/a27b4de8-eee9-4c93-8f1e-765f2bfa3841)
 
 
 ## Code
