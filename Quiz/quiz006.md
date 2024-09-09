@@ -8,12 +8,13 @@
 
 ## Flow Diagram
 
+![image](https://github.com/user-attachments/assets/a776a7df-9bdb-4688-bcd0-6ab664f8499c)
 
 
 
 ## Paper Solution
 
-
+![image](https://github.com/user-attachments/assets/fa2030d9-ba19-4855-b8bb-68d6c08519bb)
 
 
 ## Code
