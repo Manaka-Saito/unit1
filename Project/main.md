@@ -10,9 +10,6 @@ My client is suffering from leak of security information in his company. He need
 
 My client is the owner of a luxury hotel and manages his clients' information. Over the past 5 years, there have been 5 password attacks and other cyber attacks that have violated client privacy. My client's main concern is that employees use the website to access client information directly with password that is public within his company. To protect the company's credibility, my client want to ensure that the systems that allow access to client information are secure. In addition to this, his employees are complaining him the lack of the space to take memo for their works, and my client wants to solve this problem as well.()
 
-
-You've been hired by a cybersecurity company to design a simple too for their employees. notepad. However, this notepad has a secret function that is only revealed when a hidden code is entered. Once the correct secret code is typed into the memo, it transfroms into a basic password manager. 
-
 - client can enter the spesific room number that turns into the password
 - wants to keep the password hidden
 - wants to use different password per employees
