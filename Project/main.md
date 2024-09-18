@@ -24,12 +24,19 @@ I am proposing, to create a notepad which contains a secret function that is onl
 ## Success Criteria
 
 1. The notepad should accept user input to perform basic operations (storing memo).
+   **[Issue Tackled]**: **: "postit notes which are visible to all employees"
+   
 2. The notepad should give appropriate feedback.
-3. If the user enters the secret code ("hello123"), the program will change modes and act as a password manager.
+
+3. If the user enters the secret code ("hello123"), the program will change modes and act as a password manager. [Issue Tackled]
+    The main concern of my client at the moment is the multiple passwords
+
 4. In password manager mode, the user should be able to:
    - Add a password (for example, for a website).
    - View the stored passwords (only if they re-enter the secret code).
+
 5. Save passwords permanently and securely.
+
 6. Use the terminal to interact with the user.
 
 
