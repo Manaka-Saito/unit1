@@ -18,7 +18,7 @@ My client is the owner of a luxury hotel and manages his clients' information. O
 
 ## Proposed Solution
 
-I am proposing, to create a notepad which contains a secret function that is only revealed when a hidden code is entered. Once the correct secret code is typed into the notepad, it transfroms into the password manager that my client requires. This is an adequate solution for my client because it solves the problem or keeping password information both protected and hidden.
+I am proposing to create a notepad which contains a secret function that is only revealed when a hidden code is entered. Once the correct secret code is typed into the notepad, it transfroms into the password manager that my client requires. This is an adequate solution for my client because it solves the problem or keeping password information both protected and hidden.
 
 
 ## Success Criteria
@@ -89,5 +89,9 @@ diagrams
 | Task Number | Planned Action               | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
 |-------------|------------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | 1st. Meeting with the client | Obtained a problem definition, understand what the situation is | 10 min         | Sep 7                  | A         |
+| 2           | 2nd. Proposing the idea      | Propose an idea for what to create to solve the problem         | 10 min         | Sep 7                  | A         |
+| 3           | 3rd. Planning processes      |                                                                 |                |                        |           |
+|             |                              |                                                                 |                |                        |           |
+|             |                              |                                                                 |                |                        |           |
 |             |                              |                                                                 |                |                        |           |
 |             |                              |                                                                 |                |                        |           |
