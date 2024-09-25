@@ -8,7 +8,7 @@ My client is suffering from leak of security information in his company. He need
 
 ## Problem definition (Add more details to this context)
 
-My client is the owner of a luxury hotel and manages his clients' information. Over the past 5 years, there have been 5 password attacks and other cyber attacks that have violated client privacy. My client's main concern is that employees use the website to access client information directly with password that is public within his company. To protect the company's credibility, my client want to ensure that the systems that allow access to client information are secure. In addition to this, his employees are complaining him the lack of the space to take memo for their works, and my client wants to solve this problem as well.()
+My client is the owner of luxury chain hotels and manages his clients’ information using each hotels’ websites. Over the past five years, there have been five phishing attacks and password attacks that violated client privacy. My client’s main concern is that employees use websites that can access all the passwords using a password that is open to everyone within the company. To protect the company’s credibility, my client wants to ensure that the system that allows access to client information is secure. (See the evidence of Consulation in the Appendix)
 
 - client can enter the spesific room number that turns into the password
 - wants to keep the password hidden
@@ -23,21 +23,21 @@ I am proposing to create a notepad which contains a secret function that is only
 
 ## Success Criteria
 
-1. The notepad should accept user input to perform basic operations (storing memo).
-   **[Issue Tackled]**: **: "postit notes which are visible to all employees"
+1. The notepad should accept user input to perform basic operations (adding memo, deleting memo and viewing memo).
+   **[Issue Tackled]**: **: "employees use websites that can access all the passwords using a password that is open to everyone within the company."
    
 2. The notepad should give appropriate feedback.
 
-3. If the user enters the secret code ("hello123"), the program will change modes and act as a password manager. [Issue Tackled]
-    The main concern of my client at the moment is the multiple passwords
+3. If the user enters the secret code (username"hotel"), the program will change modes and act as a password manager. [Issue Tackled]
+4. In password manager mode, the user should be able to 
 
-4. In password manager mode, the user should be able to:
+5. In password manager mode, the user should be able to:
    - Add a password (for example, for a website).
    - View the stored passwords (only if they re-enter the secret code).
 
-5. Save passwords permanently and securely.
+6. Save passwords permanently and securely.
 
-6. Use the terminal to interact with the user.
+7. Use the terminal to interact with the user.
 
 
 
