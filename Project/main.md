@@ -17,7 +17,8 @@ I am proposing to create a notepad which contains a secret function that is only
 
 ## Rationale
 
-I proposed to use terminal and python in this procedure. Python is user-friendly programming language and is globally used. Terminal is the platform that is widely used. According to _Why are the benefits of using Terminal?_ from Lenovo.com, "it provides a powerful and efficient way to interact with computers". In addition, Python allows developer to use their own software to develop the project. 
+I proposed to use terminal and python in this procedure. Python is user-friendly programming language and is globally used. In addition, Python allows developer to use their own software to develop the project. 
+According to _12 reasons why you should learn Python_, "Python has several powerful applications integrated with other programming languages". Terminal is the platform that is widely used. According to _Why are the benefits of using Terminal?_ from Lenovo.com, "it provides a powerful and efficient way to interact with computers". 
 
 ## Success Criteria
 
