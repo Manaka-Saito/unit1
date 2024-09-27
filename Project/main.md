@@ -1,4 +1,4 @@
-# Project Unit 1: A simple calculator
+# Project Unit 1: A notepad
 
 
 # Criterion A: Planning
