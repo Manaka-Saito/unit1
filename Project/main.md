@@ -1,7 +1,7 @@
 # Project Unit 1: A simple calculator
 
 
-# Citerion A: Planning
+# Criterion A: Planning
 
 My client is suffering from leak of security information in his company. He needs stronger cybersecurity system for managing information.  
 
@@ -67,19 +67,14 @@ According to _12 reasons why you should learn Python_, "Python has several power
 
 
 
-### Data storage
-diagrams
-### Sketches of the application (wireframe diagrams)
-diagrams
-
 
 ### Test plan
 | Test Number | Type of Test | Area Tested      | Process of Testing                                                                                                                                                                                                                                                                                                                                                    | Test Outcome                                                                                                                                                                                                                                     | Time Estimated | Target Completion Date | Criterion |
 |-------------|--------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | Unit Testing | Greeting         | 1. Enter username for notepad                                                                                                                                                                                                                                                                                                                                         | Display the greeting statement and options that usrs can choose from.                                                                                                                                                                            | 10 min         | Sep 15                 | B         |
 | 2           | Unit Testing | Notepad          | 1. Enter from 1 to 3 to decide which action to take (add, delete, and view) 2. If a valid number is entered, do action corresponds to  the number for user. If not, enter a number again. Display that the action is completed successfully. 3. Option of 'terminate' shows up as 4th option. If 4 entered, display greeting. If not,  loop the function as notepad.  | Confim that user can add, delete, view note, and terminate. If action completed,  it tells user that the action is successfully completed.  If the program get invalid input, display that the input is not valid and loop the notepad function. | 10 min         | Sep 16                 | B         |
-| 3           | Unit Testing | Login            | 1. Enter secret password (name'hotel') 2. Enter username                                                                                                                                                                                                                                                                                                              | Change the mode to secret mode.                                                                                                                                                                                                                  | 10 min         | Sep 18                 |           |
-| 4           | Unit Testing | Password Manager | 1. Enter from 1 to 5 to decide which action to take (View, add, update, delete, and terminate) 2. If a valid number is entered, do action corresponds to the number for user. If not, enter a number again.  3. Loop the function as password manager.                                                                                                                | Confirm that user can use password manager as it is expected.                                                                                                                                                                                    | 10 min         | Sep 25                 |           |
+| 3           | Unit Testing | Login            | 1. Enter secret password (name'hotel') 2. Enter username                                                                                                                                                                                                                                                                                                              | Change the mode to secret mode.                                                                                                                                                                                                                  | 10 min         | Sep 18                 |B          |
+| 4           | Unit Testing | Password Manager | 1. Enter from 1 to 5 to decide which action to take (View, add, update, delete, and terminate) 2. If a valid number is entered, do action corresponds to the number for user. If not, enter a number again.  3. Loop the function as password manager.                                                                                                                | Confirm that user can use password manager as it is expected.                                                                                                                                                                                    | 10 min         | Sep 25                 |B          |
 
 
 ## Record of Tasks
