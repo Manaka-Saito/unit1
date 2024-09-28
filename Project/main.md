@@ -100,3 +100,4 @@ According to _12 reasons why you should learn Python_, "Python has several power
 # Criterion C
 
 ## Here is the video: 
+https://drive.google.com/drive/folders/1Ldz2PZf5l_lzhTWJcwYGjtqOeEg05Js-?usp=share_link
