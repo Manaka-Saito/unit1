@@ -3,7 +3,7 @@ Not uploaded on google slides yet.
 
 ## Flow Diagram
 
-<img width="301" alt="Screenshot 2024-10-01 at 0 33 09" src="https://github.com/user-attachments/assets/e67f0b1c-2bed-41d5-bcf4-2dbf684fdfb5">
+<img width="383" alt="Screenshot 2024-10-01 at 2 38 01" src="https://github.com/user-attachments/assets/26d80b4d-ea2c-40d2-b656-3932b1fa2c37">
 
 
 
