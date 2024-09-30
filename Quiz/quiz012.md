@@ -6,20 +6,22 @@
 
 ## Flow Diagram
 
+<img width="322" alt="Screenshot 2024-10-01 at 2 16 47" src="https://github.com/user-attachments/assets/b28f8aa2-e0c7-48a9-ae0a-6f003fbd5d71">
 
 
 
 ## Paper Work
 
+![IMG_8524](https://github.com/user-attachments/assets/40c42345-e295-4255-931e-1231783255c0)
 
 
 
 ## Code
 
-<img width="522" alt="Screenshot 2024-09-30 at 21 20 12" src="https://github.com/user-attachments/assets/be181546-9b7e-4e68-bc5f-3c3ef4dc13c1">
+<img width="354" alt="Screenshot 2024-10-01 at 2 05 44" src="https://github.com/user-attachments/assets/7edfdd40-c917-4cad-b864-fea015164db5">
 
 
 
 ## Proof of Work
 
-<img width="1060" alt="Screenshot 2024-09-30 at 21 20 25" src="https://github.com/user-attachments/assets/edcca3a5-cc86-4e44-a768-37a07992a6b4">
+<img width="1034" alt="Screenshot 2024-10-01 at 2 06 02" src="https://github.com/user-attachments/assets/0e3cbd08-aedd-4fc3-bc1f-efdc2780cf9a">
