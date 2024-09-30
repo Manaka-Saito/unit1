@@ -6,10 +6,8 @@
 
 ## Flow Diagram
 
-
-<img width="538" alt="Screenshot 2024-10-01 at 1 45 22" src="https://github.com/user-attachments/assets/3f5d2cdb-3951-461a-8052-0d9b8c39c263">
-<img width="540" alt="Screenshot 2024-10-01 at 1 45 43" src="https://github.com/user-attachments/assets/513d5c08-77ab-46e6-aab6-b40d54413ba9">
-
+<img width="684" alt="Screenshot 2024-10-01 at 2 29 13" src="https://github.com/user-attachments/assets/f1bdd69b-2dda-4e41-8ecf-d1c6316f1937">
+<img width="677" alt="Screenshot 2024-10-01 at 2 29 33" src="https://github.com/user-attachments/assets/a5cc2073-992c-4180-800c-b4a0232d5db1">
 
 
 ## Paper Solution
