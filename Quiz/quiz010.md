@@ -17,14 +17,14 @@
 
 
 ## Code
-<img width="910" alt="Screenshot 2024-10-01 at 4 12 55" src="https://github.com/user-attachments/assets/e7cac6e2-e82e-49dc-bd14-40a4908ff3a1">
-<img width="918" alt="Screenshot 2024-10-01 at 4 13 12" src="https://github.com/user-attachments/assets/c2f94fa5-020e-4981-a156-b4eac4aabfc7">
+<img width="937" alt="Screenshot 2024-10-05 at 6 43 05" src="https://github.com/user-attachments/assets/c4c37c6c-822b-4599-8c3c-021221af9f57">
+<img width="936" alt="Screenshot 2024-10-05 at 6 43 37" src="https://github.com/user-attachments/assets/1658f901-8d95-4910-a2ba-a08cec93962b">
 
-<img width="911" alt="Screenshot 2024-10-01 at 4 13 25" src="https://github.com/user-attachments/assets/d7944eb0-86e3-4a55-85fc-4bd4716ead7d">
-<img width="913" alt="Screenshot 2024-10-01 at 4 13 41" src="https://github.com/user-attachments/assets/846833c0-0a53-4cc0-ad80-3041c7d473b6">
+<img width="936" alt="Screenshot 2024-10-05 at 6 44 20" src="https://github.com/user-attachments/assets/bc528118-6ab0-4f98-93b3-8ecb60e6a246">
+<img width="657" alt="Screenshot 2024-10-05 at 6 47 07" src="https://github.com/user-attachments/assets/2325e6d6-a656-4c79-bb40-f8640252d608">
 
 
 ## Proof of work
 
-<img width="1021" alt="Screenshot 2024-10-01 at 4 08 55" src="https://github.com/user-attachments/assets/65372008-4b68-4c69-bdcd-4e106cea438a">
-<img width="1143" alt="Screenshot 2024-10-01 at 4 10 39" src="https://github.com/user-attachments/assets/6eaaefc2-68ea-458d-96cb-8ae741700cb1">
+<img width="986" alt="Screenshot 2024-10-05 at 6 41 52" src="https://github.com/user-attachments/assets/f5b92f4f-3ebe-43ec-8ac7-265b8ea76cda">
+<img width="970" alt="Screenshot 2024-10-05 at 6 39 52" src="https://github.com/user-attachments/assets/5c803377-f2ec-45c7-aa08-799fd87f20e3">
