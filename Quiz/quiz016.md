@@ -1,5 +1,6 @@
 # This is quiz 016
-Not uploaded on google slides yet.
+<img width="1070" alt="Screenshot 2024-10-05 at 8 20 37" src="https://github.com/user-attachments/assets/1f3dca48-aba0-4faf-94ca-4e76bef272f3">
+
 
 ## Flow Diagram
 
@@ -10,6 +11,8 @@ Not uploaded on google slides yet.
 ## Paper Solution
 
 ![IMG_8518](https://github.com/user-attachments/assets/384ec4e4-126f-4d12-a833-1fc57c4f41d2)
+b. 
+![image](https://github.com/user-attachments/assets/85b53d2d-f72d-4109-a740-794052e47234)
 
 
 
