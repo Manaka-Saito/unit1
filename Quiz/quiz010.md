@@ -5,10 +5,11 @@
 
 
 ## Flow Diagram
-<img width="1124" alt="Screenshot 2024-10-01 at 4 44 22" src="https://github.com/user-attachments/assets/41f34065-a5c8-4f9d-a2f7-67788482c521">
 
-<img width="1089" alt="Screenshot 2024-10-01 at 4 41 25" src="https://github.com/user-attachments/assets/281333f6-81e1-47f6-b6bc-4ed17fa2654c">
-<img width="1071" alt="Screenshot 2024-10-01 at 4 41 37" src="https://github.com/user-attachments/assets/3ac2e140-b1f3-4590-979f-53d261768b53">
+<img width="837" alt="Screenshot 2024-10-05 at 7 50 04" src="https://github.com/user-attachments/assets/b5675f31-12c9-43c8-b21d-ccdcbe3d1a59">
+<img width="840" alt="Screenshot 2024-10-05 at 7 48 18" src="https://github.com/user-attachments/assets/cea00adb-00fd-41ea-bc5c-5c703fb9b34c">
+<img width="837" alt="Screenshot 2024-10-05 at 7 52 09" src="https://github.com/user-attachments/assets/5409593e-e0b9-4390-b187-929c9488842f">
+
 
 
 ## Paper Solution
