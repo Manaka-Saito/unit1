@@ -6,15 +6,17 @@
 
 ## Flow Diagram
 
-<img width="837" alt="Screenshot 2024-10-05 at 7 50 04" src="https://github.com/user-attachments/assets/b5675f31-12c9-43c8-b21d-ccdcbe3d1a59">
-<img width="840" alt="Screenshot 2024-10-05 at 7 48 18" src="https://github.com/user-attachments/assets/cea00adb-00fd-41ea-bc5c-5c703fb9b34c">
-<img width="837" alt="Screenshot 2024-10-05 at 7 52 09" src="https://github.com/user-attachments/assets/5409593e-e0b9-4390-b187-929c9488842f">
+<img width="844" alt="Screenshot 2024-10-05 at 8 02 09" src="https://github.com/user-attachments/assets/2a496b5a-8a65-4273-ac89-8d7b7d242a34">
+<img width="839" alt="Screenshot 2024-10-05 at 8 02 40" src="https://github.com/user-attachments/assets/88e6d761-9f33-44c6-9f6d-61faa503da48">
+<img width="803" alt="Screenshot 2024-10-05 at 8 03 10" src="https://github.com/user-attachments/assets/ecf9cd54-1624-4190-a02f-f1598a88a1ed">
 
 
 
 ## Paper Solution
 
-![image](https://github.com/user-attachments/assets/23566bd2-999d-4db2-a118-aefbbbb058a8)
+![image](https://github.com/user-attachments/assets/85ad5931-2db3-4df8-bd74-6e435b50c97e)
+![image](https://github.com/user-attachments/assets/f1def374-51b1-4456-8404-557755d018e5)
+
 
 
 ## Code
@@ -23,6 +25,7 @@
 
 <img width="936" alt="Screenshot 2024-10-05 at 6 44 20" src="https://github.com/user-attachments/assets/bc528118-6ab0-4f98-93b3-8ecb60e6a246">
 <img width="657" alt="Screenshot 2024-10-05 at 6 47 07" src="https://github.com/user-attachments/assets/2325e6d6-a656-4c79-bb40-f8640252d608">
+<img width="936" alt="Screenshot 2024-10-05 at 8 12 03" src="https://github.com/user-attachments/assets/97f4680d-dea1-425b-96ba-d017efca9572">
 
 
 ## Proof of work
